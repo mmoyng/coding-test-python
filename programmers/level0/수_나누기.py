@@ -7,7 +7,7 @@
 number의 자릿수는 2의 배수입니다.
 
 변경한 부분 :
-for 
+for i in range(1):
 """
 
 number = int(input())
